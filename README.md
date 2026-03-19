@@ -79,6 +79,8 @@ Highlighted key insights and recommendations
 
 📊 Dashboard
 
+![overview](screenshot/customer_shopping_behaviour_dashboard.png)
+
 Interactive Power BI dashboard showcasing:
 
 Sales trends
