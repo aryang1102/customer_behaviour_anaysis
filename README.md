@@ -1,4 +1,4 @@
-# customer_behaviour_anaysis
+# customer_behaviour_analysis
 data analytics project showcasing customer behaviour analysis using python,sql and powerbi
 
 📊 Data Analytics Project
